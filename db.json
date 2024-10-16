@@ -1,0 +1,109 @@
+{
+  "user": [
+    {
+      "id": "Jane",
+      "name": "Jane Smith",
+      "password": "123456",
+      "email": "janes@gmail.com",
+      "phone": "124567",
+      "country": "france",
+      "address": "abcdef",
+      "gender": "female"
+    },
+    {
+      "id": "Diona",
+      "name": "Diona Stewart",
+      "password": "12341234",
+      "email": "diona@gmail.com",
+      "phone": "12341234",
+      "country": "italy",
+      "address": "abcd",
+      "gender": "female"
+    },
+    {
+      "id": "Juli",
+      "name": "Juli Mata",
+      "password": "123456",
+      "email": "jm120@gmail.com",
+      "phone": "12345",
+      "country": "albania",
+      "address": "",
+      "gender": "female"
+    },
+    {
+      "id": "Ana",
+      "name": "Ana Smith",
+      "password": "22222222",
+      "email": "ana@gmail.com",
+      "phone": "2345",
+      "country": "germany",
+      "address": "",
+      "gender": "female"
+    }
+  ],
+  "employee": [
+    {
+      "id": 1,
+      "name": "Jane Smith",
+      "position": "Team Leader",
+      "email": "janes@gmail.com",
+      "phone": "1245678",
+      "projects": "12"
+    },
+    {
+      "id": 2,
+      "name": "Ann Morgan",
+      "position": "Frontend Dev",
+      "email": "ann@gmail.com",
+      "phone": "1211111",
+      "projects": "15"
+    },
+    {
+      "id": 3,
+      "name": "Alvin James",
+      "position": "Backend Dev",
+      "email": "Alivin@gmail.com",
+      "phone": "10101010",
+      "projects": "7"
+    },
+    {
+      "id": 5,
+      "name": "Edlira Allaraj",
+      "position": "Team Leader",
+      "email": "Edlira@gmail.com",
+      "phone": "12345",
+      "projects": "18"
+    },
+    {
+      "name": "Juli Mata",
+      "position": "Frontend Dev",
+      "email": "jm1204.it@gmail.com",
+      "phone": "12345",
+      "projects": "12",
+      "id": 6
+    }
+  ],
+  "faq": [
+    {
+      "question": " An Important Question",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+    },
+    {
+      "question": " Another Question",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+    },
+    {
+      "question": " Creative Question",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+    },
+    {
+      "question": " Final Question",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+    },
+    {
+      "question": " Project Question",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+    }
+    
+  ]
+}
